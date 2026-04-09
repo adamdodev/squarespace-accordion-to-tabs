@@ -26,6 +26,6 @@ The snippet uses Squarespace's `var(--paragraphMediumColor)` for text and border
 
 This code is free to use and modify on any Squarespace website by any individual, company, or organisation.
 
-The source-available `PolyForm Perimeter License` attached restricts this code, or derivatives of it, from being lifted by third-parties and sold on marketplaces for (in the author's opinion) [ridiculous](https://www.will-myers.com/products/p/tabs-plugin-for-squarespace) [prices](https://www.sqspthemes.com/plugins/p/squarespace-accordion-tabs).
+The source-available `PolyForm Perimeter License` attached protects this code, and derivatives of it, from being lifted by third-parties and sold on marketplaces for (in the author's opinion) [frankly](https://www.dunagency.com/plugins/p/stylish-tab-plugin-squarespace-71) [ridiculous](https://www.will-myers.com/products/p/tabs-plugin-for-squarespace) [prices](https://www.sqspthemes.com/plugins/p/squarespace-accordion-tabs).
 
 Any future commercially sold version of this code snippet will be provided with support by the author or an authorised partner. The code itself will always be available to use and modify for free.
